@@ -13,13 +13,9 @@ Examples:
 
 2. Given A = [2, -2, -3, 3] and B = [0, 0, 4, -4], your function should return 1. The only fair index is 2. Index 4 is not fair as the subarrays containing indexes from K to N-1 would be empty.<br>
 
-3. Given A = [4,-1, 0, 3] and B = 1-2, 6, 0, 4], your function should return 0.
-
-There are no fair indexes.<br>
+3. Given A = [4,-1, 0, 3] and B = 1-2, 6, 0, 4], your function should return 0.There are no fair indexes.<br>
 
 4. Given A= [3, 2, 6] and B = [4, 1, 6], your function should return 0.<br>
 
-5. Given A = [1, 4, 2, -2, 5], B = [7, -2, -2, 2, 5], your function should return 2. The
-
-fair indexes are 2 and 4. <br>
+5. Given A = [1, 4, 2, -2, 5], B = [7, -2, -2, 2, 5], your function should return 2. Thefair indexes are 2 and 4. <br>
 
